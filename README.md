@@ -22,6 +22,7 @@
 
 ```bash
 > NAME:  Hoàng Giang
+> ALIAS: tít
 > BIRTHDATE: xx/xx/2008
 ```
 
