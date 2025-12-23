@@ -22,6 +22,7 @@
 
 ```bash
 > ACCESS GRANTED:  Hoàng Giang
+> BIRTHDATE: xx/xx/2008
 ```
 
 **💬 DISCORD:**   leonarddayne
