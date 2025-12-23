@@ -21,7 +21,7 @@
 <img align="right" alt="Cyberpunk GIF" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 ```bash
-> ACCESS GRANTED:  Hoàng Giang
+> NAME:  Hoàng Giang
 > BIRTHDATE: xx/xx/2008
 ```
 
