@@ -24,7 +24,7 @@
 > ACCESS GRANTED: Ngô Hoàng Giang
 ```
 
-**🧠 DISCORD:**  
+**💬 DISCORD:**  
 leonarddayne
 
 
