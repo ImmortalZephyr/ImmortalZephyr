@@ -15,7 +15,7 @@
 
 <div align="center">
 
-## ⚡ NEURAL INTERFACE ACTIVATED ⚡
+## ⚡ "𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙙𝙤𝙢𝙖𝙞𝙣." ⚡
 
 </div>
 
