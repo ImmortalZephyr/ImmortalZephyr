@@ -31,7 +31,7 @@
 
 
 
-**🧠 CORE_PHILOSOPHY:**   “𝘾𝙤𝙙𝙚 𝙞𝙨 𝙥𝙤𝙚𝙩𝙧𝙮, 𝙗𝙪𝙜𝙨 𝙖𝙧𝙚 𝙩𝙝𝙚 𝙥𝙡𝙤𝙩 𝙩𝙬𝙞𝙨𝙩𝙨.”
+**🧠 CORE_PHILOSOPHY:**   “𝘾𝙤𝙙𝙚 𝙞𝙨 𝙣𝙤𝙫𝙚𝙡, 𝙗𝙪𝙜𝙨 𝙖𝙧𝙚 𝙩𝙝𝙚 𝙥𝙡𝙤𝙩 𝙩𝙬𝙞𝙨𝙩𝙨.”
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
