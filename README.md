@@ -22,24 +22,14 @@
 
 ```bash
 > ACCESS GRANTED: Ngô Hoàng Giang
-> ALIAS: 𝘼𝙪𝙧𝙚𝙣
-> CLEARANCE LEVEL: [Your experienceLevel]
-> LOCATION: [Your location]
-> CORPORATION: [Your company]
-> STATUS: [Your currentStatus]
 ```
 
 **🔬 BIO_DATA:**  
-[Your bio]
+No bio yet!!
 
 **🧠 CORE_PHILOSOPHY:**  
 “𝘾𝙤𝙙𝙚 𝙞𝙨 𝙥𝙤𝙚𝙩𝙧𝙮, 𝙗𝙪𝙜𝙨 𝙖𝙧𝙚 𝙩𝙝𝙚 𝙥𝙡𝙤𝙩 𝙩𝙬𝙞𝙨𝙩𝙨.”
 
-**⚡ SUPERPOWER:**  
-[Your superpower]
-
-**🛡️ WEAKNESS:**  
-[Your weakness]
 
 <br clear="right"/>
 
