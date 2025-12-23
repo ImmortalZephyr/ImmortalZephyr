@@ -24,6 +24,9 @@
 > ACCESS GRANTED: Ngô Hoàng Giang
 ```
 
+**🧠 DISCORD:**  
+leonarddayne
+
 
 
 **🧠 CORE_PHILOSOPHY:**  
