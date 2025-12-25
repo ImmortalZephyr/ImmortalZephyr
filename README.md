@@ -9,7 +9,7 @@
   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Welcome+to+Night+City;"Logic will get you from A to B. Imagination will take you everywhere.";Ngô Hoàng Giang;System+Status%3A+[Your currentStatus]" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&secondColor=16213E&height=120&section=header&text=⛩️&fontSize=60&fontColor=C9A961&animation=twinkling"/>
 
 
 </div>
