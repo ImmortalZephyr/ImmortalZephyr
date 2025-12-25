@@ -12,7 +12,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&secondColor=16213E&height=120&section=header&text=⛩️&fontSize=60&fontColor=C9A961&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Welcome+to+Night+City;"𝙇𝙤𝙜𝙞𝙘 𝙬𝙞𝙡𝙡 𝙜𝙚𝙩 𝙮𝙤𝙪 𝙛𝙧𝙤𝙢 𝘼 𝙩𝙤 𝘽. 𝙄𝙢𝙖𝙜𝙞𝙣𝙖𝙩𝙞𝙤𝙣 𝙬𝙞𝙡𝙡 𝙩𝙖𝙠𝙚 𝙮𝙤𝙪 𝙚𝙫𝙚𝙧𝙮𝙬𝙝𝙚𝙧𝙚.";Ngô Hoàng Giang;System+Status%3A+[Your currentStatus]" alt="Typing SVG" />
->
 
 
 </div>
