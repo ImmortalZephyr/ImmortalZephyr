@@ -26,7 +26,7 @@
 ```bash
 > NAME:  Hoàng Giang
 > ALIAS: B4S1C
-> BIRTHDATE: xx/xx/2008
+> BIRTHDATE: 04/01/2008
 ```
 
 **💬 DISCORD:**   leonarddayne
