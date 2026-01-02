@@ -21,15 +21,14 @@
 
 </div>
 
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/b55b1120-0ed6-45e2-9a86-cc18707e5ed7"/>
-
+<img align="right" alt="Anonymous GIF" width="300"
+src="https://github.com/user-attachments/assets/b55b1120-0ed6-45e2-9a86-cc18707e5ed7" />
 
 ```bash
 > NAME:  Hoàng Giang
-> ALIAS: N0B0DY
-> BIRTHDATE: 04/01/2008
-```
+> ALIAS: B4S1C
+> BIRTHDATE: xx/xx/2008
+
 
 **💬 DISCORD:**   leonarddayne
 
