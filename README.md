@@ -21,7 +21,7 @@
 
 
 </div>
-<img align="right" alt="Cyberpunk GIF" width="300" src="https://mediaX.giphy.com/media/lwAyIZrVNYfio/giphy.gif">
+<img align="right" alt="Cyberpunk GIF" width="300" src="https://media.giphy.com/media/lwAyIZrVNYfio/giphy.gif">
 
 
 ```bash
