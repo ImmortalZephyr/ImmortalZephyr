@@ -4,9 +4,9 @@
   </a>
 
 
+![Glitch Coding GIF by Squirrel Monkey](https://github.com/user-attachments/assets/57513fbc-4ceb-4ef1-8992-75db80072c43)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://github.com/user-attachments/assets/86361777-fdd6-4e63-b392-88984c564583" width="100%" height="auto"/></p>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
