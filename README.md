@@ -13,7 +13,7 @@
 ** **
   
 
-<img align="right" alt="anonymous GIF" width="208" src="https://github.com/user-attachments/assets/ec5006bd-9ed6-480d-a6d5-be052058ee58">
+<img align="right" alt="anonymous GIF" width="207" src="https://github.com/user-attachments/assets/ec5006bd-9ed6-480d-a6d5-be052058ee58">
 <div align="left">
  
 ```bash
