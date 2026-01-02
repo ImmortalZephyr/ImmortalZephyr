@@ -29,12 +29,12 @@
 
 **   **
 
-**☑️ DISCORD:**   leonarddayne
+**☑️ DISCORD :**   leonarddayne
 
 
-**➡️ LINKDIN:**   [`Hoàng Giang`](https://www.linkedin.com/in/ho%C3%A0ng-giang-6963b53a0/)
+**➡️ LINKDIN :**   [`Hoàng Giang`](https://www.linkedin.com/in/ho%C3%A0ng-giang-6963b53a0/)
 
-**✅ TELEGRAM:**   [`Juan Bolsa`](https://t.me/kingvon008)
+**✅ TELEGRAM :**   [`Juan Bolsa`](https://t.me/kingvon008)
 
 ** **
 
