@@ -29,7 +29,7 @@
 
 **   **
 
-**☑️ DISCORD :**   leonarddayne                    **       🕶️DEV.TO :**  [`𝘼𝙐𝙍𝙀𝙉 𝙏𝙃𝙀 𝘼𝘽𝙎𝙊𝙇𝙐𝙏𝙀`](https://dev.to/immortalzephyr)
+**☑️ DISCORD :**   leonarddayne                    **.      🕶️DEV.TO :**  [`𝘼𝙐𝙍𝙀𝙉 𝙏𝙃𝙀 𝘼𝘽𝙎𝙊𝙇𝙐𝙏𝙀`](https://dev.to/immortalzephyr)
 
 
 **➡️ LINKDIN :**   [`Hoàng Giang`](https://www.linkedin.com/in/ho%C3%A0ng-giang-6963b53a0/)
