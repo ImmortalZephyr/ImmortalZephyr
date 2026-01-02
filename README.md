@@ -13,9 +13,7 @@
   <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF41&size=50&center=true&vCenter=true&height=60&width=880&lines=Hi,+Im+Hoàng+Giang+%3C3;Welcome+to+my+github+profile!+%3C3;Im+learning+and+building+things+here.+%3C3;Thanks+to+stopping+by!!!" alt="Title">
   </a>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/86361777-fdd6-4e63-b392-88984c564583">
 
 
 
