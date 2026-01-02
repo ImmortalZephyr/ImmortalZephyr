@@ -20,8 +20,8 @@
 <div align="left">
  
 ```bash
-  > NAME :  Hoàng Giang
-  > ALIAS : ???
+  > NAME :  Hoàng Giang                 > ZODIAC : Capricorn
+  > ALIAS : ???                          
   > BIRTHDATE : 04/01/2008
   > NATIONALITY : 🇻🇳
 ```
