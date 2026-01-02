@@ -13,7 +13,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF2B&size=50&center=true&vCenter=true&height=60&width=880&lines=Hi,+Im+Hoàng+Giang+%3C3;Welcome+to+my+github+profile!+%3C3;Im+learning+and+building+things+here.+%3C3;Thanks+to+stopping+by!!!" alt="Title">
   </a>
 
-<img align="right" alt="anonymous GIF" width="250" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+<img align="right" alt="anonymous GIF" width="300" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 <div align="left">
  
 ```bash
@@ -29,7 +29,8 @@
 
 
 
-**🧠 CORE_PHILOSOPHY:**   "𝙇𝙤𝙜𝙞𝙘 𝙬𝙞𝙡𝙡 𝙜𝙚𝙩 𝙮𝙤𝙪 𝙛𝙧𝙤𝙢 𝘼 𝙩𝙤 𝘽. 𝙄𝙢𝙖𝙜𝙞𝙣𝙖𝙩𝙞𝙤𝙣 𝙬𝙞𝙡𝙡 𝙩𝙖𝙠𝙚 𝙮𝙤𝙪 𝙚𝙫𝙚𝙧𝙮𝙬𝙝𝙚𝙧𝙚."
+**🧠 CORE_PHILOSOPHY:**   
+"𝙇𝙤𝙜𝙞𝙘 𝙬𝙞𝙡𝙡 𝙜𝙚𝙩 𝙮𝙤𝙪 𝙛𝙧𝙤𝙢 𝘼 𝙩𝙤 𝘽. 𝙄𝙢𝙖𝙜𝙞𝙣𝙖𝙩𝙞𝙤𝙣 𝙬𝙞𝙡𝙡 𝙩𝙖𝙠𝙚 𝙮𝙤𝙪 𝙚𝙫𝙚𝙧𝙮𝙬𝙝𝙚𝙧𝙚."
 
 
 <div align="center">
