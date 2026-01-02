@@ -23,8 +23,9 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/oD8SJf9cW1UAAAAC/matrix-code.gif" height="180"/>
+  <img src="https://media.tenor.com/oD8SJf9cW1UAAAAC/matrix-code.gif" />
 </p>
+
 
 
 
