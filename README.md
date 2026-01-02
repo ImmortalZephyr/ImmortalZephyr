@@ -19,9 +19,9 @@
 <div align="left">
  
 ```bash
-> NAME:  Hoàng Giang
-> ALIAS: ???
-> BIRTHDATE: 04/01/2008
+> NAME :  Hoàng Giang
+> ALIAS : ???
+> BIRTHDATE : 04/01/2008
 > NATIONALITY : 🇻🇳
 ```
 
