@@ -22,7 +22,7 @@
   > NATIONALITY : VIETNAM                > FAVORITE SPORT : Boxing, Football
 ```
 
-** **
+
 
 
 **☑️ DISCORD :**   leonarddayne    
