@@ -21,7 +21,7 @@
   > NAME :  Hoàng Giang                  > ZODIAC : Capricorn
   > ALIAS : ???                          > THE CHINESE ZODIAC : Rat-Boar
   > BIRTHDATE : 04/01/2008               > FAVORITE FOOD : Hamburger, Peperoni Pizza
-  > NATIONALITY : VIETNAM                    > FAVORITE SPORT : Boxing, Football
+  > NATIONALITY : VIETNAM                > FAVORITE SPORT : Boxing, Football
 ```
 
 
