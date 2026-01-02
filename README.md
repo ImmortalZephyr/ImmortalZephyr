@@ -20,10 +20,10 @@
 <div align="left">
  
 ```bash
-  > NAME :  Hoàng Giang                 > ZODIAC : Capricorn
-  > ALIAS : ???                         > THE CHINESE ZODIAC : Rat-Boar
-  > BIRTHDATE : 04/01/2008              > FAVORITE FOOD : Hamburger, Peperoni Pizza
-  > NATIONALITY : 🇻🇳                    > FAVORITE SPORT : Boxing, Football
+  > NAME :  Hoàng Giang                  > ZODIAC : Capricorn
+  > ALIAS : ???                          > THE CHINESE ZODIAC : Rat-Boar
+  > BIRTHDATE : 04/01/2008               > FAVORITE FOOD : Hamburger, Peperoni Pizza
+  > NATIONALITY : 🇻🇳                     > FAVORITE SPORT : Boxing, Football
 ```
 
 
