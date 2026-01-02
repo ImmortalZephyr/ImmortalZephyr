@@ -20,7 +20,7 @@
 
 
 <img align="right" alt="anonymous GIF" width="300" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
-<div>
+<div align="left">
  
 ```bash
 > NAME:  Hoàng Giang
