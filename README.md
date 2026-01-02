@@ -21,8 +21,7 @@
 
 </div>
 
-
-<img align="right" alt="Cyberpunk GIF" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+![anonymous GIF](https://github.com/user-attachments/assets/b55b1120-0ed6-45e2-9a86-cc18707e5ed7)
 
 
 
