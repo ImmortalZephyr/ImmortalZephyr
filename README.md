@@ -41,7 +41,9 @@
 
 **🧠 CORE_PHILOSOPHY:**   "𝙇𝙤𝙜𝙞𝙘 𝙬𝙞𝙡𝙡 𝙜𝙚𝙩 𝙮𝙤𝙪 𝙛𝙧𝙤𝙢 𝘼 𝙩𝙤 𝘽. 𝙄𝙢𝙖𝙜𝙞𝙣𝙖𝙩𝙞𝙤𝙣 𝙬𝙞𝙡𝙡 𝙩𝙖𝙠𝙚 𝙮𝙤𝙪 𝙚𝙫𝙚𝙧𝙮𝙬𝙝𝙚𝙧𝙚."
 
-<![matrix](https://media.tenor.com/oD8SJf9cW1UAAAAC/matrix-code.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
+</div>
 
 
 
