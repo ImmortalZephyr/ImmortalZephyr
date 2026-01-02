@@ -17,7 +17,7 @@
 <img align="right" alt="anonymous GIF" width="207" src="https://github.com/user-attachments/assets/ec5006bd-9ed6-480d-a6d5-be052058ee58">
 <div align="left">
 
-```markdown
+```bash
   > NAME :  Hoàng Giang                  > ZODIAC : Capricorn
   > ALIAS : ???                          > THE CHINESE ZODIAC : Rat-Boar
   > BIRTHDATE : 04/01/2008               > FAVORITE FOOD : Hamburger, Peperoni Pizza
