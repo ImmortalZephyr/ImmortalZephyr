@@ -22,9 +22,7 @@
 
 
 
-</div>
-<img align="right" alt="Cyberpunk GIF" width="300" src="https://media.giphy.com/media/lwAyIZrVNYfio/giphy.gif">
-
+<img align="right" alt="Cyberpunk GIF" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 ```bash
 > NAME:  Hoàng Giang
