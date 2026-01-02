@@ -4,8 +4,7 @@
   </a>
 
 
-![Glitch Coding GIF by Squirrel Monkey](https://github.com/user-attachments/assets/57513fbc-4ceb-4ef1-8992-75db80072c43)
-
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/57513fbc-4ceb-4ef1-8992-75db80072c43">
 
 
 <div align="center">
