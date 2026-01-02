@@ -22,7 +22,7 @@
 
 
 
-<img align="right" alt="Cyberpunk GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxjYWNxajE2a3Z1eGV5a2RmczNodnJxMGRrdXd1dmM3OTB0ZnlldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GZjZqk1MKbBdN5AUfK/giphy.gif">
+<img align="right" alt="Cyberpunk GIF" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxjYWNxajE2a3Z1eGV5a2RmczNodnJxMGRrdXd1dmM3OTB0ZnlldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GZjZqk1MKbBdN5AUfK/giphy.gif">
 
 ```bash
 > NAME:  Hoàng Giang
