@@ -10,7 +10,6 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-** **
   
 
 <img align="right" alt="anonymous GIF" width="207" src="https://github.com/user-attachments/assets/ec5006bd-9ed6-480d-a6d5-be052058ee58">
