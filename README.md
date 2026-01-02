@@ -20,10 +20,10 @@
 <div align="left">
  
 ```bash
-     > NAME :  Hoàng Giang
-     > ALIAS : ???
-     > BIRTHDATE : 04/01/2008
-     > NATIONALITY : 🇻🇳
+  > NAME :  Hoàng Giang
+  > ALIAS : ???
+  > BIRTHDATE : 04/01/2008
+  > NATIONALITY : 🇻🇳
 ```
 
 
