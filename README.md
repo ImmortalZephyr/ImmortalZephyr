@@ -28,7 +28,8 @@
 
 **   **
 
-**✅ DISCORD:**   leonarddayne
+**<img width="408" height="408" alt="image" src="https://github.com/user-attachments/assets/f88e853e-eddf-416d-b0b2-93c0e5b38dc5" />
+ DISCORD:**   leonarddayne
 
 
 **✅ LINKDIN:**   [`Hoàng Giang`](https://www.linkedin.com/in/ho%C3%A0ng-giang-6963b53a0/)
