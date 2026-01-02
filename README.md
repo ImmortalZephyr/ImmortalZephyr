@@ -23,9 +23,6 @@
 
 <div align="right">
   <img src="https://github.com/user-attachments/assets/b55b1120-0ed6-45e2-9a86-cc18707e5ed7"/>
-</div>
-
-
 
 
 ```bash
