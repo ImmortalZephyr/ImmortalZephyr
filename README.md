@@ -31,7 +31,7 @@
 **✅ DISCORD:**   leonarddayne
 
 
-**✅ LINKDIN:**   [`Hoàng Giang`](https://www.linkedin.com/in/mc-chicken-6963b53a0/)
+**✅ LINKDIN:**   [`Hoàng Giang`](https://www.linkedin.com/in/ho%C3%A0ng-giang-6963b53a0/)
 
 ** **
 
