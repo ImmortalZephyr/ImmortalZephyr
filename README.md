@@ -52,12 +52,16 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ImmortalZephyr&theme=dark&hide_border=false" width="48%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=default&count_private=true&include_all_commits=false" width="48%" />
+  <img src="https://stats.builetuananh.name.vn/api/top-langs/?username=anthony2708&layout=compact&langs_count=10&card_width=445&theme=dracula" alt="Language Stats" width="48%" />
 </p>
 
 
 
-   
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/immortalzephyr?theme=dark,unicorn" width="48%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=default&count_private=true&include_all_commits=false" width="48%" />
+</p>
 
 
 
