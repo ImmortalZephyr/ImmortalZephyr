@@ -55,12 +55,6 @@
    <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=default&count_private=true&include_all_commits=false" />
 
 
-
----
-
-
-
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/immortalzephyr?theme=dark,unicorn)](https://leetcode.com/ImmortalZephyr?target="_blank")
 </div>
 
