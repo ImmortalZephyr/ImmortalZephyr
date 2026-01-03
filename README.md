@@ -48,9 +48,9 @@
 
 [![Giang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=xcode)](https://github.com/ImmortalZephyr)
 
-![](https://github-readme-stats.vercel.app/api?username=ImmortalZephyr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ImmortalZephyr&theme=dark&hide_border=false)<br/>
 
+![](https://nirzak-streak-stats.vercel.app/?user=ImmortalZephyr&theme=dark&hide_border=false)<br/>
+<img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=default&count_private=true&include_all_commits=false" />
 
    
 
