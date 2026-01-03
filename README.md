@@ -52,13 +52,13 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ImmortalZephyr&theme=dark&hide_border=false" width="48%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 
 <p align="center">
   <a href="https://leetcode.com/immortalzephyr">
-    <img src="https://leetcard.jacoblin.cool/immortalzephyr?theme=light&font=Noto%20Sans%20Old%20Sogdian" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/immortalzephyr?theme=nord&font=Noto%20Sans%20Old%20Sogdian&ext=heatmap" width="48%" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=default&count_private=true&include_all_commits=false" width="48%" />
