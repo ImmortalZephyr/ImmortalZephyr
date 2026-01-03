@@ -18,10 +18,11 @@
 <div align="left">
 
 ```bash
-  > NAME :  Hoàng Giang                  > ZODIAC : Capricorn
-  > ALIAS : ???                          > THE CHINESE ZODIAC : Rat-Boar
-  > BIRTHDATE : 04/01/2008               > FAVORITE FOOD : Hamburger, Peperoni Pizza
-  > NATIONALITY : VIETNAM                > FAVORITE SPORT : Boxing, Football
+  > NAME :  Hoàng Giang                  > ALIAS : ???     
+  > ZODIAC : Capricorn                   > THE CHINESE ZODIAC : Rat-Boar
+  > BIRTHDATE : 04/01/2008               > NATIONALITY : VIETNAM
+  > FAVORITE DRINK : Cappucino, Milk     > FAVORITE FOOD : Hamburger, Peperoni Pizza
+  > FAVORITE SPORT : Boxing, Football    > FAVORITE MOVIE : Breaking Bad
 ```
 
 ** **
