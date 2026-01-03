@@ -48,6 +48,7 @@
 
 [![Giang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=xcode)](https://github.com/ImmortalZephyr)
 
+<!-- 3 cards nằm ngang -->
 <a href="https://github.com/ImmortalZephyr">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ImmortalZephyr&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats 1" width="48%" />
 </a>
@@ -58,9 +59,7 @@
 
 <br clear="both">
 
-<a href="https://github.com/ImmortalZephyr">
-  <img align="left" src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=default&count_private=true&include_all_commits=false" alt="Stats 2" width="48%" />
-</a>
+
 
 
 
