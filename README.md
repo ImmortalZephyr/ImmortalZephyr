@@ -70,3 +70,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ImmortalZephyr&color=32cd32&style=flat-square)
 
+
+![](https://github-readme-stats.vercel.app/api?username=ImmortalZephyr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
