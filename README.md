@@ -52,13 +52,11 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ImmortalZephyr&theme=dark&hide_border=false" width="48%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://stats.builetuananh.name.vn/api/top-langs/?username=ImmortalZephyr&layout=compact&langs_count=10&card_width=445&theme=dracula"Language Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImmortalZephyr" width="48%" />
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/immortalzephyr?theme=dark,unicorn" width="48%" />
