@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/immortalzephyr">
-    <img src="https://leetcard.jacoblin.cool/immortalzephyr?theme=dracula&font=Noto%20Sans%20Old%20Sogdian&ext=heatmap" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/immortalzephyr?theme=nord&font=Noto%20Sans%20Old%20Sogdian&ext=heatmap" width="48%" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=dracula&hide_border=true&langs_count=8" width="48%" />
