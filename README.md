@@ -66,8 +66,6 @@
 
 
 
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/immortalzephyr?theme=dark,unicorn)](https://leetcode.com/ImmortalZephyr?target="_blank")
 </div>
 
   
