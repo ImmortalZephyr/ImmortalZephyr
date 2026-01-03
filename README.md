@@ -45,7 +45,7 @@
 [![Giang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=xcode)](https://github.com/ImmortalZephyr)
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ImmortalZephyr?theme=dark,unicorn)](https://leetcode.com/ImmortalZephyr?target="_blank")
+[![Leetcode Stats](https://leetcard.jacoblin.cool/immortalzephyr?theme=dark,unicorn)](https://leetcode.com/ImmortalZephyr?target="_blank")
 </div>
 
 
