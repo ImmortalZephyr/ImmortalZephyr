@@ -55,6 +55,10 @@
   <img src="https://stats.builetuananh.name.vn/api/top-langs/?username=ImmortalZephyr&layout=compact&langs_count=10&card_width=445&theme=dracula"Language Stats" width="48%" />
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages Donut" />
+</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/immortalzephyr?theme=dark,unicorn" width="48%" />
