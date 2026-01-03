@@ -51,7 +51,9 @@
 
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/immortalzephyr?theme=dark,unicorn" width="48%" />
+  <a href="https://leetcode.com/immortalzephyr">
+    <img src="https://leetcard.jacoblin.cool/immortalzephyr?theme=dark&font=Noto%20Sans&ext=heatmap" width="48%" />
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=default&count_private=true&include_all_commits=false" width="48%" />
 </p>
