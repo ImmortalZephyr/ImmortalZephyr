@@ -57,9 +57,9 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ImmortalZephyr&theme=dark&hide_border=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ImmortalZephyr&theme=radical&hide_border=false" width="48%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
