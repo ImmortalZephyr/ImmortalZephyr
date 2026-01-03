@@ -56,6 +56,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/immortalzephyr?theme=dark,unicorn" width="48%" />
