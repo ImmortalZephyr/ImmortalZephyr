@@ -1,5 +1,4 @@
 
-![Profile Views](https://komarev.com/ghpvc/?username=ImmortalZephyr&color=32cd32&style=flat-square)
 
 ** **
 
