@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://github.com/user-attachments/assets/9a993b52-7103-428f-bb46-1c38b2de7057" width="100%" height="auto"/></p>
 
-#About Me
+# 🙋‍♂️ About Me
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
