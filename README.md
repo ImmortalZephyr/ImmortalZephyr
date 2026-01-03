@@ -75,10 +75,11 @@
 ** **
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImmortalZephyr&color=32cd32&style=flat-square" width="32%" />
+  <img src="https://komarev.com/ghpvc/?username=ImmortalZephyr&color=brightgreen&style=plastic" width="20%" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ImmortalZephyr&color=32cd32&style=for-the-badge" width="32%" />
+  <img src="https://komarev.com/ghpvc/?username=ImmortalZephyr&color=brightgreen&style=plastic" width="20%" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ImmortalZephyr&color=brightgreen&style=plastic" width="32%" />
+  <img src="https://komarev.com/ghpvc/?username=ImmortalZephyr&color=brightgreen&style=plastic" width="20%" />
 </p>
+
 
