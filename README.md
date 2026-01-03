@@ -52,9 +52,9 @@
 
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ImmortalZephyr&theme=dark&hide_border=false" width="45%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ImmortalZephyr&theme=dark&hide_border=false" width="48%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=default&count_private=true&include_all_commits=false" width="45%" />
+  <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=default&count_private=true&include_all_commits=false" width="48%" />
 </p>
 
 
