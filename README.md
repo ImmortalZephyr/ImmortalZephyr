@@ -1,4 +1,3 @@
-<img alt="Hits" src="https://hits.sh/github.com/datvodinh/hits.svg?style=for-the-badge&logo=github&color=a6da95&logoColor=D9E0EE&labelColor=302D41&label=Views+Count&extraCount=3700"/></a>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
