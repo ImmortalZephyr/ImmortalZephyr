@@ -52,7 +52,7 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ImmortalZephyr&theme=dark&hide_border=false" width="48%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://stats.ImmortalZephyr.name.vn/api/top-langs/?username=ImmortalZephyr&layout=compact&langs_count=10&card_width=445&theme=dracula" alt="Language Stats" width="48%" />
+  <img src="https://stats.builetuananh.name.vn/api/top-langs/?username=ImmortalZephyr&layout=compact&langs_count=10&card_width=445&theme=dracula" alt="Language Stats" width="48%" />
 </p>
 
 
