@@ -37,9 +37,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=ImmortalZephyr&color=32cd32&style=flat-square)
 
   
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
 </div>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=ImmortalZephyr&color=32cd32&style=flat-square)
+
