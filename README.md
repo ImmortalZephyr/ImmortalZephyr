@@ -59,6 +59,24 @@
 
 <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=dracula"/>
 
+<p align="center">
+  <a href="https://leetcode.com/immortalzephyr">
+    <img src="https://leetcard.jacoblin.cool/immortalzephyr?theme=catppuccinMocha&font=Noto%20Sans%20Old%20Sogdian&ext=heatmap" width="48%" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=dracula&hide_border=true&langs_count=8" width="48%" />
+</p>
+
+
+<a href="https://github-trophies.vercel.app/?username=ImmortalZephyr" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=ImmortalZephyr&theme=radical&margin-w=4&margin-h=4">
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
