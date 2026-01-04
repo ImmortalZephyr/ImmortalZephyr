@@ -7,7 +7,7 @@
 
 ** **
 
-<p align="center"><img src="https://github.com/user-attachments/assets/ca63c608-c1fe-452d-a7cc-c53f026d2c41" width="100%" height="auto"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/59e339c9-b777-4be3-9b6b-9a7672c91061" width="100%" height="auto"/></p>
 
 # 🙋‍♂️ About Me
 
