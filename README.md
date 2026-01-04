@@ -57,16 +57,9 @@
  
 </p>
 
-<a href="https://github-trophies.vercel.app/?username=ImmortalZephyr" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=ImmortalZephyr&theme=radical&margin-w=4&margin-h=4">
-</a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-</div>
-
 <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=dracula"/>
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
 </div>
