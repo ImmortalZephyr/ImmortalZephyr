@@ -65,13 +65,13 @@
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=dracula&hide_border=true&langs_count=8" width="48%" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <a href="https://github-trophies.vercel.app/?username=ImmortalZephyr" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=ImmortalZephyr&theme=radical&margin-w=4&margin-h=4">
 </a>
 
-<img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=ImmortalZephyr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 </div>
 
