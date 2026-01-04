@@ -7,13 +7,13 @@
 
 ** **
 
-<p align="center"><img src="https://github.com/user-attachments/assets/9a993b52-7103-428f-bb46-1c38b2de7057" width="100%" height="auto"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/f624d10f-6769-4b9c-8893-75a67a1397d8" width="100%" height="auto"/></p>
 
 # 🙋‍♂️ About Me
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  
+
 
 <img align="right" alt="anonymous GIF" width="210" src="https://github.com/user-attachments/assets/ec5006bd-9ed6-480d-a6d5-be052058ee58">
 <div align="left">
