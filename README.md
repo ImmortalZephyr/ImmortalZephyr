@@ -56,6 +56,8 @@
  
 </p>
 
+<img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=dracula"/>
+
 
 <p align="center">
   <a href="https://leetcode.com/immortalzephyr">
@@ -65,7 +67,6 @@
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=dracula&hide_border=true&langs_count=8" width="48%" />
 </p>
 
-<img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=dracula"/>
 
 
 <a href="https://github-trophies.vercel.app/?username=ImmortalZephyr" target="_blank">
