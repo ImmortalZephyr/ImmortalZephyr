@@ -6,7 +6,6 @@
   </a>
 
 ** **
-![Pixel Joint, Part 1_ The Past]()
 
 <p align="center"><img src="https://github.com/user-attachments/assets/81724377-41e4-41bc-9525-e08d5872c926" width="100%" height="auto"/></p>
 
