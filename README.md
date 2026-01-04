@@ -1,13 +1,14 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF2B&size=50&center=true&vCenter=true&height=60&width=880&lines=Hi+there,+im+Hoàng+Giang+%3C3;Welcome+to+my+github+profile+!+%3C3;Im+learning+and+building+things+here.+%3C3;Thanks+to+stopping+by+!+!+!" alt="Title">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%237DF9FF&size=50&center=true&vCenter=true&height=60&width=880&lines=Hi+there,+im+Hoàng+Giang+%3C3;Welcome+to+my+github+profile+!+%3C3;Im+learning+and+building+things+here.+%3C3;Thanks+to+stopping+by+!+!+!" alt="Title">
 
   </a>
 
 ** **
 
-<p align="center"><img src="https://github.com/user-attachments/assets/59e339c9-b777-4be3-9b6b-9a7672c91061" width="100%" height="auto"/></p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/07e8225a-6d43-4996-8b62-22706397fb95" width="100%" height="auto"/></p>
 
 # 🙋‍♂️ About Me
 
