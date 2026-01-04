@@ -47,7 +47,7 @@
  
 # 📊 Stats 
 
-[![Giang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=xcode)](https://github.com/ImmortalZephyr)
+[![Giang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=dracula)](https://github.com/ImmortalZephyr)
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ImmortalZephyr&theme=dracula&hide_border=false" width="48%" />
