@@ -9,8 +9,7 @@
 
 ![tải xuống]
 
-<p align="center"><img src="https://github.com/user-attachments/assets/93661c2a-e003-42aa-8e25-48c410e81ad4)
-" width="100%" height="auto"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/93661c2a-e003-42aa-8e25-48c410e81ad4" width="100%" height="auto"/></p>
 
 # 🙋‍♂️ About Me
 
