@@ -7,9 +7,10 @@
 
 ** **
 
+![tải xuống]
 
-
-<p align="center"><img src="https://github.com/user-attachments/assets/89496f9b-3a6a-40c3-95e2-d022db81982c" width="100%" height="auto"/></p>
+<p align="center"><img src="(https://github.com/user-attachments/assets/93661c2a-e003-42aa-8e25-48c410e81ad4)
+" width="100%" height="auto"/></p>
 
 # 🙋‍♂️ About Me
 
