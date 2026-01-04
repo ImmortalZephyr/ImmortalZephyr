@@ -65,11 +65,12 @@
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=dracula&hide_border=true&langs_count=8" width="48%" />
 </p>
 
+<img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=dracula"/>
+
+
 <a href="https://github-trophies.vercel.app/?username=ImmortalZephyr" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=ImmortalZephyr&theme=radical&margin-w=4&margin-h=4">
 </a>
-
-<img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=dracula"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
