@@ -8,6 +8,7 @@
 ** **
 
 
+
 <p align="center"><img src="https://github.com/user-attachments/assets/89496f9b-3a6a-40c3-95e2-d022db81982c" width="100%" height="auto"/></p>
 
 # 🙋‍♂️ About Me
@@ -17,7 +18,7 @@
 
 
 
-<img align="right" alt="anonymous GIF" width="200" src="https://github.com/user-attachments/assets/882c17e0-0c2b-43f6-bd25-8fda8a500230">
+<img align="right" alt="anonymous GIF" width="210" src="https://github.com/user-attachments/assets/9ea383a1-0a9e-4f6a-a42c-3117bb13a2ec">
 <div align="left">
 
 ```bash
