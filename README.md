@@ -79,7 +79,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ImmortalZephyr&color=brightgreen&style=plastic" width="15%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ImmortalZephyr&color=brightgreen&style=plastic" width="15%" />
+  <img src="https://img.shields.io/github/followers/tiendung0403?style=social" width="15%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=ImmortalZephyr&color=brightgreen&style=plastic" width="15%" />
 </p>
