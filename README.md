@@ -6,8 +6,9 @@
   </a>
 
 ** **
+![Pixel Joint, Part 1_ The Past]()
 
-<p align="center"><img src="https://github.com/user-attachments/assets/f624d10f-6769-4b9c-8893-75a67a1397d8" width="100%" height="auto"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/81724377-41e4-41bc-9525-e08d5872c926" width="100%" height="auto"/></p>
 
 # 🙋‍♂️ About Me
 
