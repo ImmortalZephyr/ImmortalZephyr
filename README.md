@@ -49,7 +49,7 @@
 [![Giang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=xcode)](https://github.com/ImmortalZephyr)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=dark" width="48%" />
+  <img src="ttps://metrics.lecoq.io/YOUR_USERNAME?template=classic&base.header=0&base.activity=1&base.repositories=1" width="48%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=dracula&count_private=true&include_all_commits=false" width="48%" />
  
