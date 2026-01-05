@@ -93,7 +93,7 @@
     <source media="(prefers-color-scheme: dark)"
             srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=radical" />
     <source media="(prefers-color-scheme: light)"
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=light" />
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=github" />
     <img width="715"
          alt="Profile Summary"
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=light" />
