@@ -47,7 +47,7 @@
  
 # 📊 Stats 
 
-[![Giang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=tokyo-night)](https://github.com/ImmortalZephyr)
+[![Giang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=shades-of-purple)](https://github.com/ImmortalZephyr)
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=ImmortalZephyr&theme=dracula" width="48%" />
