@@ -44,30 +44,108 @@
 </p>
  
 # 📊 Stats 
-
-[![Giang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=xcode)](https://github.com/ImmortalZephyr)
+<!-- Activity Graph -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ImmortalZephyr&theme=dracula" width="48%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=dracula&count_private=true&include_all_commits=false" width="48%" />
- 
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=chartreuse-dark" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=minimal" />
+    <img alt="Giang's github activity graph"
+         src="https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=github-light" />
+  </picture>
 </p>
 
-<img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=dracula"/>
+<p align="center">
+  
+  <!-- Streak & GitHub Stats -->
+  
+  <span style="display:inline-block; vertical-align:top;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://github-readme-streak-stats-eight.vercel.app?user=ImmortalZephyr&theme=radical" />
+      <source media="(prefers-color-scheme: light)"
+              srcset="https://github-readme-streak-stats-eight.vercel.app?user=ImmortalZephyr&theme=buefy" />
+      <img width="48%"
+           alt="Streak Stats"
+           src="https://github-readme-streak-stats-eight.vercel.app?user=ImmortalZephyr&theme=default" />
+    </picture>
+  </span>
+
+  <span style="display:inline-block; vertical-align:top;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=radical&count_private=true&include_all_commits=false" />
+      <source media="(prefers-color-scheme: light)"
+              srcset="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=light&count_private=true&include_all_commits=false" />
+      <img width="48%"
+           alt="GitHub Stats"
+           src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=ImmortalZephyr&show_icons=true&theme=light&count_private=true&include_all_commits=false" />
+    </picture>
+  </span>
+</p>
+
+<!-- Profile Summary Card -->
 
 <p align="center">
-  <a href="https://leetcode.com/immortalzephyr">
-    <img src="https://leetcard.jacoblin.cool/immortalzephyr?theme=catppuccinMocha&font=Noto%20Sans%20Old%20Sogdian&ext=heatmap" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=radical" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=light" />
+    <img width="715"
+         alt="Profile Summary"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=light" />
+  </picture>
+</p>
+
+<p align="center">
+  
+  <!-- LeetCode + Top Languages -->
+  
+  <span style="display:inline-block; vertical-align:top;">
+    <a href="https://leetcode.com/immortalzephyr">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+                srcset="https://leetcard.jacoblin.cool/immortalzephyr?theme=radical&font=Electrolize&ext=heatmap" />
+        <source media="(prefers-color-scheme: light)"
+                srcset="https://leetcard.jacoblin.cool/immortalzephyr?theme=wtf&font=Electrolize&ext=heatmap" />
+        <img width="48%"
+             alt="LeetCode Card"
+             src="https://leetcard.jacoblin.cool/immortalzephyr?theme=light" />
+      </picture>
+    </a>
+  </span>
+
+  <span style="display:inline-block; vertical-align:top;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=radical&hide_border=true&langs_count=8" />
+      <source media="(prefers-color-scheme: light)"
+              srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=shadow_blue&hide_border=true&langs_count=8" />
+      <img width="48%"
+           alt="Top Languages"
+           src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=light&hide_border=true&langs_count=8" />
+    </picture>
+  </span>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <a href="https://github-trophies.vercel.app/?username=ImmortalZephyr" target="_blank">
+    <span style="display:inline-block;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+                srcset="https://github-trophies.vercel.app/?username=ImmortalZephyr&theme=radical" />
+        <source media="(prefers-color-scheme: light)"
+                srcset="https://github-trophies.vercel.app/?username=ImmortalZephyr&theme=light" />
+        <img alt="GitHub Trophies"
+             src="https://github-trophies.vercel.app/?username=ImmortalZephyr&theme=light" />
+      </picture>
+    </span>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=dracula&hide_border=true&langs_count=8" width="48%" />
 </p>
-
-
-<a href="https://github-trophies.vercel.app/?username=ImmortalZephyr" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=ImmortalZephyr&theme=radical&margin-w=4&margin-h=4">
-</a>
 
 ** **
 
