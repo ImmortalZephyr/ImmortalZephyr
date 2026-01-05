@@ -16,7 +16,7 @@
 
 
 
-<img align="right" alt="anonymous GIF" width="210" src="https://github.com/user-attachments/assets/e36e555e-b10b-42e1-803a-47f4033144c9">
+<img align="right" alt="anonymous GIF" width="300" src="https://github.com/user-attachments/assets/c2a241d0-da53-43d0-80b8-bcbb1efbe316">
 <div align="left">
 
 ```bash
