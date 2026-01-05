@@ -7,14 +7,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/fb5f5592-72ad-4d46-bed9-b13921c6ea72" width="100%" height="auto"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/c368af3d-6fe2-4f51-869e-c802b6e45de0" width="100%" height="auto"/></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 # 🙋‍♂️ About Me
-
-
 
 
 
