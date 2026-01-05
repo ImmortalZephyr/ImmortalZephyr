@@ -96,7 +96,7 @@
             srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=github" />
     <img width="715"
          alt="Profile Summary"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=light" />
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImmortalZephyr&theme=solarized" />
   </picture>
 </p>
 
