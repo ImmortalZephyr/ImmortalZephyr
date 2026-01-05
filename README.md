@@ -108,7 +108,7 @@
     <a href="https://leetcode.com/immortalzephyr">
       <picture>
         <source media="(prefers-color-scheme: dark)"
-                srcset="https://leetcard.jacoblin.cool/immortalzephyr?theme=radical&font=Electrolize&ext=heatmap" />
+                srcset="https://leetcard.jacoblin.cool/immortalzephyr?theme=catppuccinMocha&font=Electrolize&ext=heatmap" />
         <source media="(prefers-color-scheme: light)"
                 srcset="https://leetcard.jacoblin.cool/immortalzephyr?theme=wtf&font=Electrolize&ext=heatmap" />
         <img width="48%"
