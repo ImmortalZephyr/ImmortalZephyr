@@ -5,9 +5,10 @@
   </a>
 
 ** **
+![PixeLɑnd ◇]()
 
-
-<p align="center"><img src="https://github.com/user-attachments/assets/fccaab3f-4945-423f-86df-0f3ba394d8eb" width="100%" height="auto"/></p>
+https://github.com/user-attachments/assets/fccaab3f-4945-423f-86df-0f3ba394d8eb
+<p align="center"><img src="https://github.com/user-attachments/assets/f1961c69-c5a7-472e-b2fb-949604526844" width="100%" height="auto"/></p>
 
 # 🙋‍♂️ About Me
 
