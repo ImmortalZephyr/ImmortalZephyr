@@ -52,7 +52,7 @@
     <source media="(prefers-color-scheme: light)"
             srcset="https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=minimal" />
     <img alt="Giang's github activity graph"
-         src="https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=github-light" />
+         src="https://github-readme-activity-graph.vercel.app/graph?username=ImmortalZephyr&theme=minimal" />
   </picture>
 </p>
 
@@ -68,7 +68,7 @@
               srcset="https://github-readme-streak-stats-eight.vercel.app?user=ImmortalZephyr&theme=buefy" />
       <img width="48%"
            alt="Streak Stats"
-           src="https://github-readme-streak-stats-eight.vercel.app?user=ImmortalZephyr&theme=default" />
+           src="https://github-readme-streak-stats-eight.vercel.app?user=ImmortalZephyr&theme=buefy" />
     </picture>
   </span>
 
@@ -109,10 +109,10 @@
         <source media="(prefers-color-scheme: dark)"
                 srcset="https://leetcard.jacoblin.cool/immortalzephyr?theme=catppuccinMocha&font=Electrolize&ext=heatmap" />
         <source media="(prefers-color-scheme: light)"
-                srcset="https://leetcard.jacoblin.cool/immortalzephyr?theme=unicorn&font=Electrolize&ext=heatmap" />
+                srcset="https://leetcard.jacoblin.cool/immortalzephyr?theme=wtf&font=Electrolize&ext=heatmap" />
         <img width="48%"
              alt="LeetCode Card"
-             src="https://leetcard.jacoblin.cool/immortalzephyr?theme=wtf&font=Electrolize&ext=heatmap" />
+             src="https://leetcard.jacoblin.cool/immortalzephyr?theme=unicorn&font=Electrolize&ext=heatmap" />
       </picture>
     </a>
   </span>
@@ -120,12 +120,12 @@
   <span style="display:inline-block; vertical-align:top;">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=radical&hide_border=true&langs_count=8" />
+              srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=omni&hide_border=true&langs_count=8" />
       <source media="(prefers-color-scheme: light)"
-              srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=shadow_blue&hide_border=true&langs_count=8" />
+              srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=shadow_red&hide_border=true&langs_count=8" />
       <img width="48%"
            alt="Top Languages"
-           src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=light&hide_border=true&langs_count=8" />
+           src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=solarized-light&hide_border=true&langs_count=8" />
     </picture>
   </span>
 </p>
