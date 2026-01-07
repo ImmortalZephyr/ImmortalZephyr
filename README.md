@@ -6,7 +6,7 @@
 
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/cebdf38b-0344-41c7-9211-c19cb72c1a25" width="55%" height="auto"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/95e1b70a-d6de-4d34-9b15-f8877d776814" width="80%" height="auto"/></p>
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-<img align="right" alt="anonymous GIF" width="250" src="https://github.com/user-attachments/assets/c2a241d0-da53-43d0-80b8-bcbb1efbe316">
+<img align="right" alt="anonymous GIF" width="270" src="https://github.com/user-attachments/assets/6f307059-93ac-4c39-beb2-22638162b782">
 <div align="left">
 
 ```bash
