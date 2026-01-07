@@ -4,7 +4,6 @@
 
   </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/cebdf38b-0344-41c7-9211-c19cb72c1a25" width="55%" height="auto"/></p>
@@ -40,7 +39,9 @@
    <div align="center">
 
 </p>
- 
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # 📊 Stats 
 <!-- Activity Graph -->
 
