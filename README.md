@@ -14,7 +14,7 @@
 
 
 
-<img align="right" alt="" width="250" src="https://github.com/user-attachments/assets/66f8fb83-f9cb-474e-ba26-a73dec33f3dc">
+<img align="right" alt="" width="240" src="https://github.com/user-attachments/assets/66f8fb83-f9cb-474e-ba26-a73dec33f3dc">
 <div align="left">
 
 ```bash
