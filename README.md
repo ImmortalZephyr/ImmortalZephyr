@@ -12,7 +12,6 @@
 
 # 🙋‍♂️ About Me
 
-** **
 
 <img align="right" alt="" width="210" src="https://github.com/user-attachments/assets/66f8fb83-f9cb-474e-ba26-a73dec33f3dc">
 <div align="left">
