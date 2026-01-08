@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF0031&size=50&center=true&vCenter=true&height=60&width=880&lines=Welcome+to+my+github+profile+!+%3C3;Im+learning+and+building+things+here.;Thanks+to+stopping+by+!+!+!" alt="Title">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF0031&size=50&center=true&vCenter=true&height=60&width=880&lines=Welcome+to+my+github+profile+%3C3;Im+learning+and+building+things+here.;Thanks+to+stopping+by+!+!+!" alt="Title">
   </a>
 
 
