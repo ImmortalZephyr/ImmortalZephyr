@@ -18,11 +18,11 @@
 <div align="left">
 
 ```bash
-> NAME :  Hoàng Giang                > ALIAS : ???     
-> ZODIAC : Capricorn                 > THE CHINESE ZODIAC : Rat-Boar
-> BIRTHDATE : 04/01/2008             > NATIONALITY : VIETNAM
-> FAVORITE DRINK : Cappucino, Milk   > FAVORITE FOOD : Hamburger, Pepperoni Pizza
-> FAVORITE SPORT : Boxing, Football  > FAVORITE MOVIE : Breaking Bad
+> NAME :  Hoàng Giang                 > ALIAS : ???     
+> ZODIAC : Capricorn                  > THE CHINESE ZODIAC : Rat-Boar
+> BIRTHDATE : 04/01/2008              > NATIONALITY : VIETNAM
+> FAVORITE DRINK : Cappucino, Milk    > FAVORITE FOOD : Hamburger, Pepperoni Pizza
+> FAVORITE SPORT : Boxing, Football   > FAVORITE MOVIE : Breaking Bad
 ```
 
 
