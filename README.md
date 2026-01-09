@@ -119,12 +119,12 @@
   <span style="display:inline-block; vertical-align:top;">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=omni&hide_border=true&langs_count=8" />
+              srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=compact&theme=omni&hide_border=true&langs_count=8" />
       <source media="(prefers-color-scheme: light)"
-              srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=shadow_red&hide_border=true&langs_count=8" />
+              srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=compact&theme=shadow_red&hide_border=true&langs_count=8" />
       <img width="48%"
            alt="Top Languages"
-           src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=donut&theme=solarized-light&hide_border=true&langs_count=8" />
+           src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImmortalZephyr&layout=compact&theme=solarized-light&hide_border=true&langs_count=8" />
     </picture>
   </span>
 </p>
