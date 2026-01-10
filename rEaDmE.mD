@@ -23,8 +23,8 @@
 > NAME :  Hoàng Giang                 > ALIAS : ???     
 > ZODIAC : Capricorn                  > THE CHINESE ZODIAC : Rat-Boar
 > BIRTHDATE : 04/01/2008              > NATIONALITY : VIETNAM
-> FAVORITE DRINK : Cappucino, Milk    > FAVORITE FOOD : Hamburger
-> FAVORITE SPORT : Boxing, Football   > FAVORITE MOVIE : The Godfather
+> FAVORITE DRINK : Milk               > FAVORITE FOOD : Hamburger
+> FAVORITE SPORT : Boxing             > FAVORITE MOVIE : The Godfather
 ```
 
 
